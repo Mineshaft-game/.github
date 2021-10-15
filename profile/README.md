@@ -5,6 +5,7 @@
 ### Links
 - [Discord](https://dsc.gg/mineshaft2d) 
 - [Website](https://mineshaft.ml) 
+- [Gamejolt](https://gamejolt.com/games/mineshaft2d/635354) 
 
 
 # Visitor count
