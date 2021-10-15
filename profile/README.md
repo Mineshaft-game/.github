@@ -7,3 +7,6 @@
 - [Website](https://mineshaft.ml) 
 
 
+
+![Visitor Count](https://profile-counter.glitch.me/Mineshaft-game/count.svg) 
+
