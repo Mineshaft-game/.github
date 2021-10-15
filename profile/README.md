@@ -7,4 +7,3 @@
 - [Website](https://mineshaft.ml) 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mineshaft-game)](https://github.com/ryo-ma/github-profile-trophy)
