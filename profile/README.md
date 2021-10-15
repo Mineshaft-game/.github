@@ -2,6 +2,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPAN85EbH1onCpxoxhDvBFg?color=white&label=Subscribe&logo=youtube&logoColor=white&style=for-the-badge)](https://YouTube.com/channel/UCPAN85EbH1onCpxoxhDvBFg) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mineshaft2D?color=white&logo=twitter&logoColor=white&style=for-the-badge)](https://Twitter.com/Mineshaft2D) 
 [![Matrix](https://img.shields.io/matrix/mineshaft:matrix.org?color=white&label=atrix&logo=matrix&logoColor=white&server_fqdn=matrix.org&style=for-the-badge)](https://element.io) 
+[![](https://img.shields.io/discord/868588717244317697?color=blue&label=Discord%20Community&logo=Discord&logoColor=black&style=social)](http://dsc.gg/mineshaft2d)
 [![GitHub Org's stars](https://img.shields.io/github/stars/Mineshaft-game?color=white&label=Stars&logo=github&logoColor=white&style=flat-square)](#) 
 
 
